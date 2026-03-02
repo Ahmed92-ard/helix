@@ -41,7 +41,7 @@ This measures real operational reliability of the robotic arm.
 | --- | 
 | 5 DOF Servo Robotic Arm | 
 | Claw Gripper | 
-| Arduino servo controller |
+| Arduino Uno |
 | External servo power supply |
 | Orange colored ball (tracked object) |
 
