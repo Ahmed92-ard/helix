@@ -1,0 +1,11 @@
+# Core
+pyserial>=3.5          # USB serial communication with ESP32
+pillow>=10.0           # Image handling for GUI thumbnails
+
+# Vision (optional — only needed if camera tracking is used)
+opencv-python>=4.8     # Webcam capture + HSV dye detection
+numpy>=1.24            # Array ops used by OpenCV
+
+# Kinect (optional — only needed if using Kinect RGB-D sensor)
+# freenect             # Install separately: pip install freenect
+#                      # May require libfreenect native library
